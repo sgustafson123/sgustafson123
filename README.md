@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgustafson123
 - 👀 I’m interested in building websites and apps
-- 🌱 I’m currently learning to code through MIT xPro
+- 🌱 I just finished a coding certificate through MIT xPro
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 Look for me on LinkedIn: https://www.linkedin.com/in/sonja-gustafson-b0b13614a/ 
 
